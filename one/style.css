@@ -45,5 +45,32 @@ body{
 
 .img2{
     width: 100%;
-    padding: 0px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.label{
+    color: gray;
+}
+
+.div3{
+    width: 620px;
+    margin: auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border: 1px solid gray;
+}
+
+.imgLock{
+    height: 25px;
+}
+
+.subDiv{
+    width: 450px;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.label2{
+    color: #606468;
 }
