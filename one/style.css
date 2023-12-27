@@ -69,8 +69,18 @@ body{
     width: 450px;
     padding-left: 30px;
     padding-right: 10px;
+    padding-bottom: 30px;
 }
 
 .label2{
     color: #606468;
 }
+
+.btnDetails{
+    padding: 15px 45px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 16px;
+    color: blue;
+}   
