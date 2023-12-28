@@ -1,0 +1,139 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.restaurant{
+    width: 450px;
+    margin: 15px auto;
+    padding: 10px;
+    border-radius: 14px;
+    border: 1px solid lightgray;
+    position: relative;
+}
+
+.img-restaurant{
+    width: 100%;
+    border-radius: 14px;
+}
+
+.img-p-top{
+    background-color: rgb(151,109,123);
+    color: rgb(183,154,163);
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    padding: 1px 4px;
+    font-size: 16px;
+}
+
+.img-p-bleft{
+    background-color: #266FEF;
+    color:white;
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    padding: 1px 15px;
+    font-size: 20px;
+}
+
+.img-p-bright{
+    background-color: white;
+    color:black;
+    position: absolute;
+    bottom: 20px;
+    right: 15px;
+    padding: 1px 15px;
+    font-size: 20px;
+}
+
+.restP{
+    font-size: 24px;
+    color: gray;
+
+}
+
+.restBottom{
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    
+}
+
+.img-delivery{
+    width: 20%;
+    display: flex;
+}
+
+.delivery-para{
+    color: gray;
+    padding: 0 20px;
+}
+
+.bali{
+    width: 650px;
+    margin: 15px auto;
+    padding: 10px;
+    border-radius: 14px;
+    border: 1px solid lightgray;
+    position: relative;
+    text-align: center;
+}
+
+.bali-heading{
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+
+.bali-para{
+    color: white;
+    position: absolute;
+    top: 250px;
+}
+
+.baliBtn{
+    color: black;
+    background-color: white;
+    position: absolute;
+    top: 320px;
+    left: 250px;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 15px;
+}
+
+.profile{
+    width: 650px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 14px;
+    border: 1px solid lightgray;
+    text-align: center;
+    background-color: rgb(243,242,239);
+}
+
+.cover{
+    border-radius: 14px;
+
+}
+
+.img-cover{
+    position: relative;
+
+}
+
+.img-profile{
+    height: 100px;
+    border-radius: 70%;
+    position: absolute;
+    left: 300px;
+    bottom: -40px;
+}
+
+.profile-h1{
+    padding-top: 20px;
+}
+
+.profile-para{
+    color: gray;
+}
